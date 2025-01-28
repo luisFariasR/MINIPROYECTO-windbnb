@@ -186,7 +186,7 @@ export default function Cards() {
             <div className="p-6">
               <div className="flex gap-4">
                 {item.superHost && (
-                  <div className="border-[2px] border-black rounded-3xl py-1 px-3">
+                  <div className="border-[2px] border-black h-8 rounded-3xl py-1 px-3">
                     <h4>SUPERHOST</h4>
                   </div>
                 )}
