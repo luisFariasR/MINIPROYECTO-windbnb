@@ -24,7 +24,7 @@ export default function Header() {
             placeholder="Add guests"
           />
         </div>
-        <div className="flex justify-center w-[6rem]">
+        <div className="flex justify-center w-[6rem] ">
           <div className="btn py-3 flex justify-center">
           <button className="flex rounded-2xl ">
             <img src="./src/assets/search_icon.svg" alt="" />
